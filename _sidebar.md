@@ -1,8 +1,8 @@
 - 홈
   - [소개](README.md)
 
-- 브랜드 가이드
-  - [Brand Guide](brand-guide.md)
+- 브랜드
+  - [아이덴티티](brand-guide.md)
 
 - 공통 매뉴얼
   - [회사 생활 가이드](common-guide.md)
