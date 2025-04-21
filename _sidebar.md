@@ -1,11 +1,11 @@
-- 마이즈
-  - [아이덴티티](브랜딩/아이덴티티.md)
+- [마이즈](README.md)
+  - [아이덴티티](branding/identity.md)
 
 - 팀별
-  - [경영지원](팀별/경영지원.md)
-  - [기획](팀별/기획.md)
-  - [개발](팀별/개발.md)
-  - [디자인](팀별/디자인.md)
-  - [마케팅](팀별/마케팅.md)
-  - [영업](팀별/영업.md)
-  - [PM](팀별/PM.md)
+  - [경영지원](teams/management.md)
+  - [기획](teams/planning.md)
+  - [개발](teams/dev.md)
+  - [디자인](teams/design.md)
+  - [마케팅](teams/marketing.md)
+  - [영업](teams/sales.md)
+  - [PM](teams/pm.md)
