@@ -1,5 +1,5 @@
 - 홈
-  - [마이즈](README.md)
+  - [소개](README.md)
 
 - 브랜드 가이드
   - [Brand Guide](brand-guide.md)
